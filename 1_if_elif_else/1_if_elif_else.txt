@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+if  berry == blue:                          <"if" starts a question that is asked.
+    print("It's a blueberry")                                            If the condition the "if" statement presents isn't met, then the code will run the "else" statement.
+elif berry == ras:                           <However, if there are "elif" statements inbetween "if" and "else" then the code will                    ^
+    print("It's a rasberry")                run all elif statements until none of those conditons are met and will run the "else" statement.          ^                                                                                        ^
+elif berry == black:                                                                                                                                  ^
+    print("It's a blackberry")                                                                                                                        ^
+else:                                                                                                                                                 ^
+    print("It's not a berry :(")                                                                                 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>^
+    
