@@ -1,0 +1,11 @@
+
+
+lists are self explanatory.
+
+lists contain different types of data such as a numbers and strings.
+
+There are can also be lists inside of a list.
+
+Pieces of data in lists can be switched around and taken out.
+
+

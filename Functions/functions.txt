@@ -1,0 +1,3 @@
+
+
+A function a block of code that only runs when it is called.

@@ -1,0 +1,3 @@
+A string is a sequence of characters enclosed in quotation marks. Basically, strings are words (numbers and other symbols can be strings)
+
+examples of strings:    "string", "word", "24/47 = Apples?"

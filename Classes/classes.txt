@@ -1,0 +1,16 @@
+
+
+
+Think of classes like blueprints.
+
+
+
+
+
+methods are inside classes, a mthod is just a function but inside of a class.
+
+
+
+
+
+Classes can take in variables.
