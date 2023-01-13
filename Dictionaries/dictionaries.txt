@@ -1,0 +1,10 @@
+A dictionary consisits of a collection of key-value pairs. Each key-value pair maps the key to its associated value.
+
+d = {
+    <key>: <value>,
+    <key>: <value>,
+      .
+      .
+      .
+    <key>: <value>
+}
